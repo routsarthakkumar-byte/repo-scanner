@@ -1,0 +1,5 @@
+test_repo/
+__pycache__/
+*.pyc
+venv/
+.env
